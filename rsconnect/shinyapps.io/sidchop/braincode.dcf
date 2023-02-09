@@ -1,0 +1,11 @@
+name: braincode
+title:
+username:
+account: sidchop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8152280
+bundleId: 6825779
+url: https://sidchop.shinyapps.io/braincode/
+when: 1675901775.28318
+lastSyncTime: 1675901775.28319
